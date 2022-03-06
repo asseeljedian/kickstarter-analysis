@@ -1,0 +1,46 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+The overview of the project is to analysis the data into more understandable data by formatting numbers and creating Pivot tables and charts.
+
+
+### Purpose
+ The analysis of a project has three quite different sequential dimensions. Firstly, we have a phase of gathering and assessing the data related to the project. In special, forecasted data, need to be carefully analyzed as it will be cement of whatever criteria that will be used to evaluate the project. Just using the right methodology and tools to evaluate a given project will not help much to reach a good investment decision if the analysis is based in poor data. The robustness of the data employed is crucial in the evaluation process. Secondly, we have the evaluation stage, in which we will assess the merits of the project to contribute for the value of the firm. Finally, we will have a third stage, of risk analysis, that will check the robustness of the evaluation results.
+
+## Analysis and Challenges
+
+The challenges that I have faced through out this project are changing the date into readable date format that I can use to create the Years Column, I had difficulties with implying the function into excel. Since I am not expert with Excel. I also had some difficulties with creating PivotTable and choosing with column and row I had to use in order to create the right table. Also filtering the pivot table with the only required data needed for the assignment was somehow challenging. It is easy to see it through the video but takes more effort to use it.
+Also, when creating Theater Outcome sheet, I had hard time using the function to create Successful, Canceled, and Failed column, it was not easy at all. But I have great time learning that and I believe it will be very helpful moving forward.
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+One of the outcomes based on Launch date is that the most successful outcomes where in May and June  while the least successful were in November and December.
+
+
+
+
+
+
+
+- What can you conclude about the Outcomes based on Goals?
+
+I would say that 1000 to 4999 were the most successful ones.
+
+- 
+
+
+What are some limitations of this dataset?
+
+The number of canceled ones were not very helpful for the theater and plays.
+
+
+
+- What are some other possible tables and/or graphs that we could create?
+
+We could create more charts for other categories using Kickstarter worksheet to analysis the other parts such as movies. We also could use another pivot table to help to know how long the creating takes using the end date and provide some more charts.
+
+
